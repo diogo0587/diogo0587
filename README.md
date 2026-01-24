@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![GitHub Streak](https://github-readme-streak-stats-woad-gamma.vercel.app?user=Diogo0587&locale=pt_BR&stroke=EB5454)](https://git.io/streak-stats)
 <!--
 **diogo0587/diogo0587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
