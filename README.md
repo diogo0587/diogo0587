@@ -1,8 +1,5 @@
 <div align="center">
-  <h2>🔥 Minha sequência no GitHub</h2>
-  <img src="https://streak-stats.demolab.com/?user=diogo0587&theme=dark&hide_border=true"/>
-  
-  <br><br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=diogo0587&theme=darkhub&no-frame=true&row=2&column=4"/>
+  <img src="https://img.shields.io/github/followers/diogo0587?style=for-the-badge&logo=github&color=0d1117&label=Seguidores"/>
+  <img src="https://img.shields.io/github/stars/diogo0587?style=for-the-badge&logo=github&color=0d1117&label=Estrelas"/>
+  <img src="https://img.shields.io/github/commits-since/diogo0587/diogo0587/latest?style=for-the-badge&logo=github&color=0d1117"/>
 </div>
