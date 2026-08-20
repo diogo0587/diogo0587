@@ -1,5 +1,16 @@
 <div align="center">
-  <img src="https://img.shields.io/github/followers/diogo0587?style=for-the-badge&logo=github&color=0d1117&label=Seguidores"/>
-  <img src="https://img.shields.io/github/stars/diogo0587?style=for-the-badge&logo=github&color=0d1117&label=Estrelas"/>
-  <img src="https://img.shields.io/github/commits-since/diogo0587/diogo0587/latest?style=for-the-badge&logo=github&color=0d1117"/>
+  
+  ### ⚡ Minhas Estatísticas
+  
+  [![GitHub followers](https://img.shields.io/badge/Seguidores-0-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/diogo0587)
+  [![GitHub stars](https://img.shields.io/badge/Estrelas-0-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/diogo0587)
+  
+  <br>
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=diogo0587&color=00FF00&style=flat-square&label=VISUALIZAÇÕES)
+  
+  <br><br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=diogo0587&theme=dark_dimmed&no-frame=true&margin-w=10"/>
+  
 </div>
