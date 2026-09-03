@@ -79,32 +79,40 @@
 <tr>
 <td width="50%">
 
-### 🤖 AI Character Platform
+### 🤖 [AI Character Platform](https://github.com/Diogo0587/ai-character-platform)
 
-AI-powered character and agent experiences.
+Next.js/React platform for AI character conversations, with character profiles, personalities, scenarios, prompt construction and a chat API. The repository currently includes the Luna character as a futuristic hacker persona.
+
+**Stack:** Next.js · React · TypeScript
 
 </td>
 <td width="50%">
 
-### 🛡️ ShieldGuardAV
+### 🛡️ [ShieldGuard AV](https://github.com/Diogo0587/ShieldGuardAV)
 
-Android security and protection tooling.
+Android security suite with real-time and on-demand malware scanning, quarantine, app permission analysis, Wi-Fi/network checks, privacy scoring, junk cleanup and background protection.
+
+**Stack:** Kotlin · Jetpack Compose · Hilt · Room · Coroutines · Retrofit
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌐 NextDNS / MCP
+### 🌐 [NextDNS MCP Server](https://github.com/Diogo0587/nextdns-mcp)
 
-Network visibility and AI-assisted automation.
+MCP server exposing the NextDNS API to AI assistants and MCP clients, including profile management, DNS-over-HTTPS testing, logs, analytics, security, privacy, parental controls and protected write operations.
+
+**Stack:** Python · FastMCP · OpenAPI · Docker
 
 </td>
 <td width="50%">
 
-### 🔎 Security Tooling
+### 📡 [Network Analyzer](https://github.com/Diogo0587/network-analyzer)
 
-URL analysis, monitoring and security experiments.
+Web-based network traffic analyzer project, automatically synchronized with v0.app and deployed through Vercel.
+
+**Stack:** v0.app · Vercel · Web
 
 </td>
 </tr>
@@ -116,11 +124,17 @@ URL analysis, monitoring and security experiments.
 
 <div align="center">
 
-<a href="https://github.com/Diogo0587">
+<a href="https://github.com/Diogo0587/ai-character-platform">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogo0587&repo=ai-character-platform&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=F78166" />
 </a>
-<a href="https://github.com/Diogo0587">
+<a href="https://github.com/Diogo0587/ShieldGuardAV">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogo0587&repo=ShieldGuardAV&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=F78166" />
+</a>
+<a href="https://github.com/Diogo0587/nextdns-mcp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogo0587&repo=nextdns-mcp&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=F78166" />
+</a>
+<a href="https://github.com/Diogo0587/network-analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Diogo0587&repo=network-analyzer&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=F78166" />
 </a>
 
 </div>
